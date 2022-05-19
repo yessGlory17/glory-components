@@ -1,6 +1,6 @@
 {
   "name": "@yessglory/glory-components",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Base Components for NFT Marketplace",
   "author": "yessGlory17",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",

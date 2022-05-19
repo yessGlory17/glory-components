@@ -4,26 +4,31 @@
 
 [![NPM](https://img.shields.io/npm/v/glory-components.svg)](https://www.npmjs.com/package/glory-components) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Install
+##  :zap: Install
 
 ```bash
 npm install --save glory-components
 ```
 
-## Usage
+## :crystal_ball: Usage
 
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'glory-components'
+import Button from 'glory-components'
 import 'glory-components/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Button />
   }
 }
 ```
+
+## :tada: Docs
+
+:pushpin: [DOCS](./docs/design/BaseComponents.md)
+
 
 ## License
 
